@@ -1,4 +1,4 @@
-# -java-EE-6-with-java-8-archetype
+# java-EE-6-with-java-8-archetype
 
 Maven archtype used to create a new Java EE 6 project with java 8.
 Archetype groupId and artifactId can be found in the main pom.
